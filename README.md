@@ -17,9 +17,7 @@ When the number of detected persons in a frame exceeds 45, the system triggers a
 
 ## Results
 
-<img align="right" alt="coding" width="400" src="https://drive.google.com/file/d/1UXf36CFPdb7CEGHK8_bKlP1YD6LosGBM/view?usp=drive_link">
-
-
+![drive link](https://drive.google.com/drive/u/0/folders/1ccoJ0Qtf5bnAqCKKhjPRBw2sg8FE6FZ_)
 
 ## References
 - YOLOv3 Paper: [https://arxiv.org/abs/1804.02767](https://arxiv.org/abs/1804.02767)
