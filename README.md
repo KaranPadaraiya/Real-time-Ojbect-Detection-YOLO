@@ -15,7 +15,7 @@ To use this project:
 When the number of detected persons in a frame exceeds 45, the system triggers an alert. This alert can be customized to suit your specific requirements, such as sending an email notification or activating an alarm.
 
 ## Chake Result and explaination
-![Blog](https://medium.com/@karanpadariya96/multiple-object-detections-in-real-time-using-yolo-algorithm-9db073cce140)
+[Blog](https://medium.com/@karanpadariya96/multiple-object-detections-in-real-time-using-yolo-algorithm-9db073cce140)
 
 ## References
 - YOLOv3 Paper: [https://arxiv.org/abs/1804.02767](https://arxiv.org/abs/1804.02767)
