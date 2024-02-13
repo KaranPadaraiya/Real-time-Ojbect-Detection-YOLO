@@ -7,17 +7,15 @@ The YOLOv3 (You Only Look Once) algorithm is a state-of-the-art deep learning mo
 
 ## Usage
 To use this project:
-1. Install the required dependencies listed in `requirements.txt`.
-2. Download the pre-trained YOLOv3 weights.
-3. Run the detection script on your video feed.
-4. Monitor the output for alerts indicating heavy traffic.
+1. Download the pre-trained YOLOv3 weights.
+2. Run the detection script on your video feed.
+3. Monitor the output for alerts indicating heavy traffic.
 
 ## Alert Mechanism
 When the number of detected persons in a frame exceeds 45, the system triggers an alert. This alert can be customized to suit your specific requirements, such as sending an email notification or activating an alarm.
 
-## Results
-
-![drive link](https://drive.google.com/drive/u/0/folders/1ccoJ0Qtf5bnAqCKKhjPRBw2sg8FE6FZ_)
+## Chake Result and explaination
+![Blog](https://medium.com/@karanpadariya96/multiple-object-detections-in-real-time-using-yolo-algorithm-9db073cce140)
 
 ## References
 - YOLOv3 Paper: [https://arxiv.org/abs/1804.02767](https://arxiv.org/abs/1804.02767)
