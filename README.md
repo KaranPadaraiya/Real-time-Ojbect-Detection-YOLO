@@ -17,10 +17,8 @@ When the number of detected persons in a frame exceeds 45, the system triggers a
 
 ## Results
 
-<video width="640" height="360" controls>
-  <source src="https://drive.google.com/file/d/16he87slyAB1almvY75g2PoTMpar4qsp0/view?usp=drive_link" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<img align="right" alt="coding" width="400" src="https://drive.google.com/file/d/1UXf36CFPdb7CEGHK8_bKlP1YD6LosGBM/view?usp=drive_link">
+
 
 
 ## References
