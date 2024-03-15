@@ -18,7 +18,7 @@ When the number of detected persons in a frame exceeds 45, the system triggers a
 ![Result](https://miro.medium.com/v2/resize:fit:828/format:webp/1*-eqKnq8aZK39x0imU8eDnw.png)
 
 ## Medium Blog Post
-Read the full blog post on Medium: [Disease Detection in Apple Using Image Processing Techniques](https://medium.com/@karanpadariya96/multiple-object-detections-in-real-time-using-yolo-algorithm-9db073cce140)
+Read the full blog post on Medium: [YOLOv3 Person Detection for Traffic Monitoring](https://medium.com/@karanpadariya96/multiple-object-detections-in-real-time-using-yolo-algorithm-9db073cce140)
 
 ## References
 - YOLOv3 Paper: [https://arxiv.org/abs/1804.02767](https://arxiv.org/abs/1804.02767)
